@@ -1,4 +1,4 @@
-# index-set
+# usize-set
 
 Set data structures optimized to store sparsely distributed `usize` values.
 
