@@ -1,7 +1,13 @@
 [package]
+authors = ["Heliax AG <hello@heliax.dev>"]
 name = "index-set"
 version = "0.10.0"
 edition = "2021"
+readme = "README.md"
+repository = "https://github.com/anoma/index-set"
+description = "Set data structures optimized to store sparsely distributed usize values"
+keywords = ["set", "index-set", "vec", "map"]
+categories = ["no-std", "data-structures"]
 
 [features]
 default = []
