@@ -2,6 +2,7 @@
 authors = ["Heliax AG <hello@heliax.dev>"]
 name = "usize-set"
 version = "0.10.2"
+license = "MIT"
 edition = "2021"
 readme = "README.md"
 repository = "https://github.com/anoma/usize-set"
